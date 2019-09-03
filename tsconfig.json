@@ -1,0 +1,11 @@
+{
+     "compilerOptions": {
+      "target": "es6", // o tipo do ecma script versão .
+      "outDir": "app/js",
+      "noEmitOnError": true,
+      "noImplicitAny": true
+     },
+     "include": [
+         "app/ts/**/*"
+     ]
+}
